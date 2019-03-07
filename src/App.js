@@ -462,60 +462,10 @@ class App extends Component {
           }
         </div>
         <div className="secondPart">
-          <div className="section"><div className="container">
-            <div className="columns is-vcentered centered">
-              <div className="column is-8">
-                <p className="bd-notification is-primary">First column</p>
-              </div>
-              <div className="column">
-                <p className="bd-notification is-primary">Second column with more content. This is so you can see the vertical alignment.</p>
-              </div>
-            </div>
-          </div>
-          </div>
-
+         
         </div>
         <div className="thirdPart">
-        <div className="section"><div className="container">
-            <div className="columns is-vcentered centered">
-              <div className="column is-4 commonBorder">
-                <p>Weet altijd een
-parkeerplaats voor je te
-vinden!</p>
-<p>
-Mocht de parkeerplaats
-intussen bezet zijn, niet
-getreurd: ParkingHero
-toont je meteen andere
-vrije parkeerplaatsen in de
-buurt!</p>
-              </div>
-              <div className="column is-4 commonBorder">
-                <p>Optimaliseert uw autorit én
-bespaart u benzine! Dit kan
-zorgen voor een tijdsbesparing
-die oploopt tot wel 50%.</p>
-<p>
-
-Dit is niet alleen efficiënt, maar
-ook goed voor je
-portemonnee!</p>
-              </div>
-              <div className="column is-4 commonBorder">
-                <p>Is voor iedereen en werkt op
-alle apparaten. ParkingHero zal
-de stad schoner, veiliger en
-slimmer maken!</p>
-<p>
-ParkingHero besteedt extra
-aandacht aan mensen met een
-lichamelijke beperking, en zal
-altijd een geschikte
-parkeerplaats voor hen vinden.</p>
-              </div>
-            </div>
-          </div>
-          </div>
+       
         </div>
       </div>
     )
